@@ -2,13 +2,11 @@
   width: 1600px;
 }
 
-#button {
-  height: 75px;
-  width: 100px;
+button {
+  width: auto;
   margin: auto;
-  color: white;
-  background-color: green;
   text-align: center;
+  display: block;
 }
 
 #container {
